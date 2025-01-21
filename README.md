@@ -26,28 +26,28 @@ The main goal of this project was to build an interactive and visually engaging 
    - Analyze rainfall variations over time, highlighting seasonal and annual trends.
 
 ### Image 1: Rainfall Analysis
-![Rainfall Analysis](./assets/img1.png)
+![Rainfall Analysis](img1.png)
 
 2. **Temperature Analysis**:
    - Explore minimum and maximum temperature trends.
    - Compare temperature variations across districts and years.
 
 ### Image 2: Temperature Analysis
-![Temperature Analysis](./assets/img2.png)
+![Temperature Analysis](img2.png)
 
 3. **Humidity Analysis**:
    - Examine minimum and maximum humidity levels region-wise.
    - Identify trends in dry and humid conditions over time.
   
 ### Image 3: Humidity Analysis
-![Humidity Analysis](./assets/img3.png)
+![Humidity Analysis](img3.png)
 
 4. **Wind Speed Analysis**:
    - Assess minimum and maximum wind speed conditions by district and year.
    - Highlight extreme wind events and calm periods.
 
 ### Image 4: Wind Speed Analysis
-![Wind Speed Analysis](./assets/img4.png)
+![Wind Speed Analysis](img4.png)
 
 5. **Regional and District-wise Comparisons**:
    - Create comparisons across Telangana's districts and regions.
